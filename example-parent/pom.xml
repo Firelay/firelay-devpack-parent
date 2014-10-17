@@ -101,4 +101,8 @@
 			<url>${firelay.nexus.snapshots}</url>
 		</snapshotRepository>
 	</distributionManagement>
+	<scm>
+		<connection>scm:git:git@github.com:sjsmit/firelay-devpack-parent.git</connection>
+		<url>scm:git:git@github.com:sjsmit/firelay-devpack-parent.git</url>
+	</scm>
 </project>
