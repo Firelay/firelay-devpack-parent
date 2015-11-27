@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.firelay.example</groupId>
 	<artifactId>example-parent</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<properties>
 		<liferay.version>6.2.1</liferay.version>
@@ -165,7 +165,7 @@
 		</snapshotRepository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:git@github.com:Firelay/firelay-devpack-parent.git</connection>
+		<connection>scm:git:https://github.com/Firelay/firelay-devpack-parent.git</connection>
 		<url>scm:git:https://github.com/Firelay/firelay-devpack-parent.git</url>
 	  <tag>HEAD</tag>
   </scm>
